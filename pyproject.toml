@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-aspect-ratio-selector"
+version = "1.0.0"
+description = "Select aspect ratio and generate appropriately-sized empty latent for each model"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.comfy]
+DisplayName = "Aspect Ratio Selector"
+requires-comfyui = ">=0.18.0"
