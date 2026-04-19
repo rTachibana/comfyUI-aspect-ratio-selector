@@ -51,7 +51,7 @@ _DEFAULT_MODELS: list[dict[str, Any]] = [
     {"name": "SD 1.5",  "base_width": 512,  "base_height": 512,  "multiple_of": 8,  "latent_channels": 4},
     {"name": "SDXL",    "base_width": 1024, "base_height": 1024, "multiple_of": 64, "latent_channels": 4},
     {"name": "FLUX.1",  "base_width": 1024, "base_height": 1024, "multiple_of": 16, "latent_channels": 16},
-    {"name": "FLUX.2",  "base_width": 1024, "base_height": 1024, "multiple_of": 16, "latent_channels": 16},
+    {"name": "FLUX.2",  "base_width": 1440, "base_height": 1440, "multiple_of": 16, "latent_channels": 16},
 ]
 
 # ---------------------------------------------------------------------------

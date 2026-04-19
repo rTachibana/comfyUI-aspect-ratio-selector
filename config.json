@@ -35,8 +35,8 @@
     },
     {
       "name": "FLUX.2",
-      "base_width": 1024,
-      "base_height": 1024,
+      "base_width": 1440,
+      "base_height": 1440,
       "multiple_of": 16,
       "latent_channels": 16
     }
